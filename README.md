@@ -19,8 +19,10 @@ To set up your own Personal Wiki:
 
 bash
 
+```shell
 git clone https://github.com/AlekseyBulaev/vault.git
 cd vault
+```
 
 Start adding your notes and content to the relevant folders.
 Structure
