@@ -27,10 +27,10 @@
 
 - provides continuous access to the container
 - types of services:
-	- NodePort
-	- Ingress
-	- ClusterIp
-	- LoadBalancer
+	- NodePort - outside access by the port number
+	- Ingress - access by the domain name
+	- ClusterIp - access from other pods
+	- LoadBalancer - outside access to one service 
 
 ---
 
@@ -160,3 +160,58 @@ kubectl describe pods <POD_NAME>
 ```shell
 kubectl delete pod my-pod
 ```
+
+---
+
+## Deployments
+
+> Deployment can manage several pods ant its configurations
+
+```bash
+kubectl apply -f app-deployment.yml
+kubectl get all
+```
+
+Rollout
+
+```
+kubectl rollout history deployment short-app-deployment
+kubectl set image deployment.apps/short-app-deployment \
+short-app=antonlarichev/short-app:latest
+kubectl rollout restart deployment short-app-deployment
+```
+
+---
+
+## Ingress
+
+Ingress controllers
+- Nginx
+- AWS
+- GCP
+- other
+
+```shell
+minikube addons list
+minikube addons enable ingress
+```
+
+```bash
+kubectl get ingress
+```
+
+---
+
+## Port forwarding
+
+```bash
+kubectl port-forward pods/postgres-deployment-xxx 5432:5432
+```
+
+---
+
+## Volume
+
+- Volume - space (storage) inside the pod
+- Persistent Volume - object (storage) outside the pod
+- Persistent Volume Claim - claim to get volume (storage) for pod
