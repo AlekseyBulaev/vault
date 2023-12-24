@@ -215,3 +215,42 @@ kubectl port-forward pods/postgres-deployment-xxx 5432:5432
 - Volume - space (storage) inside the pod
 - Persistent Volume - object (storage) outside the pod
 - Persistent Volume Claim - claim to get volume (storage) for pod
+
+Access Modes
+- ReadWriteOnce - can be used by only one instance
+- ReadOnlyMany - can be read by many instances
+- ReadWriteMany - can be used by many instances
+
+---
+
+## StorageClass
+
+```bash
+kubectl get storageclasses.storage.k8s.io
+```
+
+- NAME - name of the storage class
+- PROVISIONER - who manages the persistence (plugin)
+- RECLAIMPOLICY - (retain, delete, ...) what to do when PVC is deleted
+- VOLUMEBINDINGMODE - when allocate the storage
+- ALLOWVOLUMEEXPANSION - can we expand the storage
+
+```bash
+kubectl apply -f postgres-pvc.yml
+kubectl apply -f postgres-deplyment.yml
+kubectl get pods
+```
+
+---
+
+## Secrets
+
+```bash
+kubectl create secret generic pg-secret --from-literal PASSWORD=my_pass
+kubectl get secrets
+kubectl describe secrets pg-secret
+```
+
+```bash
+kubectl get secrets pg-secret --template={{.data.PASSWORD}}
+```
