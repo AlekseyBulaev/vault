@@ -6,18 +6,18 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      components: frontend
+      components: backend
   template:
     metadata:
       labels:
-        components: frontend
+        components: backend
     spec:
       containers:
       - name: short-app
-        image: antonlarichev/short-app:v1.0
+        image: antonlarichev/short-app:v1.4
         ports:
-        - containerPort: 80
+        - containerPort: 3000
         resources:
           limits:
             memory: "128Mi"
-            cpu: "500m"
+            cpu: "100m"
