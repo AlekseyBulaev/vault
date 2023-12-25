@@ -318,3 +318,36 @@ kubectl config set-context --current --namespace=kubernates-dashboard
 ```bash
 kubectl api-resources --namespaced=false
 ```
+
+---
+
+## Helm
+
+- declarative way
+- package manager
+- rollback and watch
+- plugins
+
+Components of Helm
+1. Chart - A package containing descriptions of resources required for operation.
+2. Repository - share published charts
+3. Release - chart example works in kubernetes cluster
+
+Chart contains of:
+- Meta Data
+- Values
+- Templates
+
+---
+
+![[Pasted image 20231224223327.png]]
+
+
+```bash
+helm repo list
+helm repo add stable htpps://charts.helm.sh/stable
+helm repo update
+
+helm install stable/mysql --generate-name
+helm show chart stable/mysql
+```
