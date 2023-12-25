@@ -22,9 +22,34 @@ spec:
             memory: "500Mi"
             cpu: "200m"
         env:
-         - name: DATABASE_URL
-           valueFrom:
+        - name: DATABASE_URL
+          valueFrom:
             secretKeyRef:
               name: short-api-secret
               key: DATABASE_URL
+        volumeMounts:
+        - name: test
+          mountPath: etc/test
+          readOnly: true
+        livenessProbe:
+          exec:
+            command:
+            - curl
+            - --fail
+            - http://localhost:3000/api
+          initialDelaySeconds: 30
+          periodSeconds: 5
+          failureTreshold: 1
+        startupProbe:
+          exec:
+            command:
+            - curl
+            - --fail
+            - http://localhost:3000/api
+          periodSeconds: 10
+          failureTreshold: 5
+      volumes:
+      - name: test
+        configMap:
+          name: demo-config
 

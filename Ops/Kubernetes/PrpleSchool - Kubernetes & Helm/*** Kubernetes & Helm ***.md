@@ -172,13 +172,15 @@ kubectl apply -f app-deployment.yml
 kubectl get all
 ```
 
-Rollout
+Rollout (works only with deployments)
 
 ```
 kubectl rollout history deployment short-app-deployment
 kubectl set image deployment.apps/short-app-deployment \
 short-app=antonlarichev/short-app:latest
 kubectl rollout restart deployment short-app-deployment
+
+kubectl rollout status deployment short-api-deployment --to-revision=2
 ```
 
 ---
@@ -253,4 +255,66 @@ kubectl describe secrets pg-secret
 
 ```bash
 kubectl get secrets pg-secret --template={{.data.PASSWORD}}
+```
+
+---
+
+Helm
+
+```bash
+helm create short-service
+```
+
+ Logs
+
+```bash
+kubectl logs pods/<POD_NAME>
+```
+
+Dashboard
+
+```bash
+minikube dashboard
+```
+
+---
+
+```bash
+kubectl exec -it short-api-deployment-xxx -- /bin/bash
+```
+
+![[Pasted image 20231224204115.png]]
+
+---
+
+## ConfigMap
+
+![[Pasted image 20231224204313.png]]
+
+```bash
+kubectl apply -f demo-config.yml
+```
+
+---
+
+## HealthCheck
+
+![[Pasted image 20231224210025.png]]
+
+---
+
+## NameSpace
+
+```bash
+kubectl get namespaces
+kubectl config set-context --current --namespace=kubernates-dashboard
+```
+
+- separate app zones
+- avoidance of naming conflicts
+- dev / prod environments
+- separate resources
+
+```bash
+kubectl api-resources --namespaced=false
 ```
