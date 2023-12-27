@@ -351,3 +351,30 @@ helm repo update
 helm install stable/mysql --generate-name
 helm show chart stable/mysql
 ```
+
+---
+
+```bash
+helm install short-service-release short-service
+```
+
+- Release - release info
+- Values - parameters from values.yml
+- Chart - data from chart.yml
+- File - file access except default files
+- Capabilities - cluster information
+- Template - current template information
+
+example:
+![[Pasted image 20231226223154.png]]
+
+---
+
+
+```bash
+helm ls
+
+helm upgrade short-service-release ./short-service
+
+helm install --debug --dry-run short-service-release ./short-service
+```
