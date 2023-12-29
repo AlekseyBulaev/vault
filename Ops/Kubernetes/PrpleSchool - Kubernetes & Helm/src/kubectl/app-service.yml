@@ -7,3 +7,5 @@ spec:
   ports:
   - port: 80
     protocol: TCP
+  selector:
+    components: frontend

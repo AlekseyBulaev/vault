@@ -172,13 +172,15 @@ kubectl apply -f app-deployment.yml
 kubectl get all
 ```
 
-Rollout
+Rollout (works only with deployments)
 
 ```
 kubectl rollout history deployment short-app-deployment
 kubectl set image deployment.apps/short-app-deployment \
 short-app=antonlarichev/short-app:latest
 kubectl rollout restart deployment short-app-deployment
+
+kubectl rollout status deployment short-api-deployment --to-revision=2
 ```
 
 ---
@@ -253,4 +255,147 @@ kubectl describe secrets pg-secret
 
 ```bash
 kubectl get secrets pg-secret --template={{.data.PASSWORD}}
+```
+
+---
+
+Helm
+
+```bash
+helm create short-service
+```
+
+ Logs
+
+```bash
+kubectl logs pods/<POD_NAME>
+```
+
+Dashboard
+
+```bash
+minikube dashboard
+```
+
+---
+
+```bash
+kubectl exec -it short-api-deployment-xxx -- /bin/bash
+```
+
+![[Pasted image 20231224204115.png]]
+
+---
+
+## ConfigMap
+
+![[Pasted image 20231224204313.png]]
+
+```bash
+kubectl apply -f demo-config.yml
+```
+
+---
+
+## HealthCheck
+
+![[Pasted image 20231224210025.png]]
+
+---
+
+## NameSpace
+
+```bash
+kubectl get namespaces
+kubectl config set-context --current --namespace=kubernates-dashboard
+```
+
+- separate app zones
+- avoidance of naming conflicts
+- dev / prod environments
+- separate resources
+
+```bash
+kubectl api-resources --namespaced=false
+```
+
+---
+
+## Helm
+
+- declarative way
+- package manager
+- rollback and watch
+- plugins
+
+Components of Helm
+1. Chart - A package containing descriptions of resources required for operation.
+2. Repository - share published charts
+3. Release - chart example works in kubernetes cluster
+
+Chart contains of:
+- Meta Data
+- Values
+- Templates
+
+---
+
+![[Pasted image 20231224223327.png]]
+
+
+```bash
+helm repo list
+helm repo add stable htpps://charts.helm.sh/stable
+helm repo update
+
+helm install stable/mysql --generate-name
+helm show chart stable/mysql
+```
+
+---
+
+```bash
+helm install short-service-release short-service
+```
+
+- Release - release info
+- Values - parameters from values.yml
+- Chart - data from chart.yml
+- File - file access except default files
+- Capabilities - cluster information
+- Template - current template information
+
+example:
+![[Pasted image 20231226223154.png]]
+
+---
+
+
+```bash
+helm ls
+
+helm upgrade short-service-release ./short-service
+
+helm install --debug --dry-run short-service-release ./short-service
+
+#Create package
+helm package ../short-service
+
+helm repo index .
+
+#check the release
+helm lint short-service
+helm template test ./short-service
+helm get all
+
+#testing
+helm test short-app-release
+```
+
+---
+
+## Work with secrets
+
+```bash
+helm plugin install https://github.com/jkroepke/helm-secrets --version v4.5.1
 ```
