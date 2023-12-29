@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: {{ .Values.app.name }}-deployment
-  # namespace: my-namespace
 spec:
   replicas: {{ .Values.app.replicas }}
   selector:
@@ -14,9 +13,9 @@ spec:
         components: {{ .Values.app.components }}
     spec:
       containers:
-      - name: {{ .Values.app.name }}
-        image: "{{ .Values.app.image.name }}:{{ .Values.app.image.version }}"
-        ports:
-        - containerPort: {{ .Values.app.port }}
-        resources:
-          limits: {{ .Values.app.limits | toYaml | nindent 14 }}
+        - name: {{ .Values.app.name }}
+          image: "{{ .Values.app.image }}:{{ .Values.app.version }}"
+          ports:
+            - containerPort: {{ .Values.app.port }}
+          resources:
+            limits: {{ .Values.app.limits | toYaml | nindent 14 }}

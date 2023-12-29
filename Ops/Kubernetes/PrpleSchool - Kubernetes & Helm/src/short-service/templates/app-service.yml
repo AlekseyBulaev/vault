@@ -5,7 +5,7 @@ metadata:
 spec:
   type: ClusterIP
   ports:
-  - port: 80
-    protocol: TCP
+    - port: {{ .Values.app.port }}
+      protocol: TCP
   selector:
     components: {{ .Values.app.components }}

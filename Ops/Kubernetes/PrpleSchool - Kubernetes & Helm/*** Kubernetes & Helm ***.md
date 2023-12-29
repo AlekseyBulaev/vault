@@ -377,4 +377,25 @@ helm ls
 helm upgrade short-service-release ./short-service
 
 helm install --debug --dry-run short-service-release ./short-service
+
+#Create package
+helm package ../short-service
+
+helm repo index .
+
+#check the release
+helm lint short-service
+helm template test ./short-service
+helm get all
+
+#testing
+helm test short-app-release
+```
+
+---
+
+## Work with secrets
+
+```bash
+helm plugin install https://github.com/jkroepke/helm-secrets --version v4.5.1
 ```
