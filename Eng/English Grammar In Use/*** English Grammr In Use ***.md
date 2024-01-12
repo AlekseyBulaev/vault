@@ -95,3 +95,56 @@
 >Compare:
 >	When Karen arrived, we **were having** dinner. (= we had already started before she arrived)
 >	When Karen arrived, we **had** dinner. (= Karen arrived, and then we had dinner)
+
+---
+
+## Unit 7 - Present perfect 1 (I have done)
+
+>==[B] When we say that 'something has happened', this is usually new information:==
+>	Ow! I've cut my finger.
+>	The road is closed. There's been (there has been) an accident.
+>	(from the news) Police have arrested two men in connection with the robbery.
+>==When we use the present perfect, there is a connection with now. The action in the past has a result now:==
+>	'Where's your key?' 'I don't know. I've lost it.' (= I don't have it now)
+>	He told me his name, but I've forgotten it. (= I can't remember it now)
+>	'Is Sally here?' 'No, she's gone out.' (= she is out now)
+>	I can't find my bag. Have you seen it? (= Do you know where it is now?)
+
+>==[C] gone (to) and been (to)==
+>	James is on holiday. He **has gone** to Italy. (= he is there now or on his way there)
+>	Jane is back home now. She **has been to** Italy. (= she has now come back)
+
+>==[D] You can use the present perfect with **just, already, yet**==
+>	Hello. Have you just arrived?
+>==We use **already** to say something happened sooner than expected==:
+>	'Don't forget to pay your electricity bill.' 'I've already paid it.'
+>==Yet = until now. **Yet** shows that the speaker is expecting something to happen, Use **yet** only in questions and negatives sentences==:
+>	Has it stopped raining yet?
+>	I've written the email, but I haven't sent it yet.
+
+---
+
+## Unit 8 - Present perfect 2 (I have done)
+
+>==[A] When we talk about a period of time that continues from the past until now. we use the present perfect (**have been / have travelled** etc)==
+>	Have your ever eaten caviar?
+>	We've never had a car.
+
+>[B] **recently / in the last few days / so far / since breakfast** etc. = a period that continues until now
+>	We haven't seen each other for a long time.
+>	We haven't had any problems so far.
+
+>==[C] In the same way we use the present perfect with **today / this evening / this year** etc. when these periods are not finished at the time of speaking==
+>	I've drunk four cups of coffee today.
+>	Have you had a holiday this year?
+>	I haven't seen Tom this morning. Have you?
+
+>==[D] We say: It's the (first) time something has happened==
+>	It's the first time he has driven a car. (not drives)
+>	That's the third time he's phoned her this evening.
+
+---
+
+## Unit 9 - Present perfect continuous (I have been doing)
+
+
