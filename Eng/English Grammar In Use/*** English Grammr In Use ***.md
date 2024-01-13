@@ -147,4 +147,58 @@
 
 ## Unit 9 - Present perfect continuous (I have been doing)
 
+>==[A] We use the present perfect continuous for an activity that has recently stopped or just stopped. There is a connection with now==:
+>	You're out of breath. Have you been running? (= you're out of breath now)
+>	Paul is very tired. He's been working very hard. (= he's tired now)
+>	Why are your clothes so dirty? What have you been doing? 
+>	I've been talking to Amanda about the problem and she agrees with me.
+>	Where have you been? I've been looking for you everywhere.
+
+>==[B] We use the present perfect continuous in this way especially with **how long, for ..., since ...** . The activity is still happening (as in this example) or has just stopped.==
+>	How long have you been learning English? (=you're still learning English)
+>	Tim is still watching TV. He's been watching TV all day.
+>	Where have you been? I've been looking for you for the last half hour.
+>	Chris hasn't been feeling well recently.
+>==You can use the present perfect continuous for actions repeated over a period of time==:
+>	Silvia is a very good tennis player. She's been playing since she was eight.
+>	Every morning they meet in the same cafe. They've been going there for years.
+
+>==[C] Compare==
+>Present continuous:
+>	Don't disturb me now. I'm working.
+>	We need an umbrella. It's raining.
+>	Hurry up! We're waiting.
+>Present perfect continuous
+>	I've been working hard. Now I'm going to have a break.
+>	THe ground is wet. It's been raining.
+>	We've been waiting for an hour.
+
+---
+
+## Unit 10 - Present perfect continuous and simple (I have been doing and I have done)
+
+>==[B] Compare==
+>Present perfect continuous
+>	My hands are very dirty. I've been repairing my bike.
+>	Joe has been eating too much recently. He should eat less.
+>	It's nice to see you again. What have you been doing since we last met?
+>	Where have you been? Have you been playing tennis?
+>Present perfect simple
+>	My bike is OK again now. I've repaired it.
+>	Somebody has eaten all the chocolates. The box is empty.
+>	Where's the book I gave you? What have you done with it?
+>	Have you ever played tennis?
+
+>==[C] We use the continuous to say how long (for something that is still p]happening)==:
+>	How long have you been reading that book?
+>	Lisa is writing emails. She's been writing emails all morning.
+>==We use the simple to say how much, how many or how many times==:
+>	How much of that book have you read?
+>	I'm learning Arabic, but I haven't learnt very much yet.
+
+>==[D] Some verbs (for example, **know/like/believe**) are not normally used in the continuous==:
+>	I've known about the problem for a long time. (not I've been knowing)
+>	How long have you had that camera? (not have you been having)
+>==Bit note that you can use **want** and **mean** in the present perfect continuous==:
+>	I've been meaning to phone Jane. but I keep forgetting.
 
