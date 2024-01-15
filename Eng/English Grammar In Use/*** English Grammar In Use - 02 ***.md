@@ -59,6 +59,36 @@
 
 ---
 
-## Present perfect and past 1 (I have done and I did)
+## Unit 13 - Present perfect and past 1 (I have done and I did)
 
+>==[A] The present perfect (something **has happened**) is a present tense. It always tells us about situation now==. 'Tom **has lost** his key' = he doesn't have his key now
+>==The past simple (something **happened**) tells us about the past==. If somebody says 'Tom **lost** his key', this doesn't tell us whether he has the key now or not. It tells us only that he lost his key at some rime in the past.
+>==Do not use the present perfect if the situation now is different. Compare==:
+>	They've gone away. They'll be back on Friday. (they are away now)
+>	They wen away, but I think they're back at home now. (not They've gone)
+>	I has stopped raining now, so we don't need the umbrella. (it isn't raining now)
+>	It topped raining for a while, bit now it's raining again. (not it has stopped)
 
+>==[B] You can use the present perfect for new or recent happenings==:
+>	I've repaired the washing machine. It's working OK now.
+>	Sally has had a baby! It's a boy.
+>==Usually, you can also use the past simple==:
+>	I repaired the washing machine. It's working Ok now.
+>==Use the past simple (not the present perfect) for things that are not recent or new==:
+>	Mozart was a composer. He wrote more than 600 pieces pf music. (not has been ... has written)
+>	My mother grew up in Italy. (not has grown)
+>==Compare==:
+>	Did you know that somebody has invented a new type of washing machine?
+>	WHo invented the telephone? (not has invented)
+
+>==[C] We use the present perfect to give new information. But if we continue to talk about it, we normally use the past simple==:
+>	A: Ow! I've burnt myself.
+>	B: How did you do that? (not have you done)
+>	A: I picked up a hot dish. (not have picked)
+>_
+>	A:Look! Somebody has split something on the sofa.
+>	B: Well, it wasn't me. I didn't do it. (not hasn't been ... haven't done)
+
+---
+
+## Unit 14 - Present perfect and past 2 (I have done and I did)
