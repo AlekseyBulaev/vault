@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2bfb005706a089",
+        "id": "e1f7b277ae67f259",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaa07b4854d27d5",
+            "id": "21a0e02c7d67cda4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "642d5ef430dcff9c",
@@ -147,18 +147,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5aaa07b4854d27d5",
+  "active": "21a0e02c7d67cda4",
   "lastOpenFiles": [
-    "Eng/English Grammar In Use/English Grammar In Use.md",
+    "Dev/Other/CleanCode/Clean Code - AcademindPro.md",
     "MAIN.md",
-    "Ops/GitHub/GitHub Actions - AcadeMind/GitHub Actions - The Complete Guide.md",
+    "Ops/GitHub/GitHub Actions - AcadeMind/The_Complete_Guide.md",
+    "Ops/Kubernetes/PrpleSchool - Kubernetes & Helm/Kubernetes_&_Helm.md",
+    "Eng/English Grammar In Use/English_Grammar_In_Use.md",
+    "Eng/English Grammar In Use/*** English Grammar In Use - 02 ***.md",
+    "[[***.md",
+    "README.md.md",
+    "Ops/Kubernetes/PrpleSchool - Kubernetes & Helm/*** Kubernetes & Helm ***.md",
+    "Ops/GitHub/GitHub Actions - AcadeMind.md",
     "Ops/GitHub/GitHub Actions - AcadeMind/*** m04 - GitHub Actions ***.md",
     "Apple.md",
     "Main.md",
     "Paintair.md",
     "www.google.ru.md",
-    "Eng/English Grammar In Use/*** English Grammar In Use - 02 ***.md",
-    "Eng/English Grammar In Use/*** English Grammar In Use - 01 ***.md",
-    "Dev/Other/CleanCode/Clean Code - AcademindPro.md"
+    "Eng/English Grammar In Use/*** English Grammar In Use - 01 ***.md"
   ]
 }

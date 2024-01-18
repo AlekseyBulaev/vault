@@ -5,11 +5,11 @@ Welcome to my Personal Wiki repository! This repository serves as my digital not
 Table of Contents
 * Dev
 	* Other
-		* [[Clean Code - AcademindPro]]
+		* [Clean Code - AcademindPro](Dev/Other/CleanCode/Clean%20Code%20-%20AcademindPro)
 * Ops
 	* GitHub
-		* [[GitHub Actions - The Complete Guide]]
+		* [GitHub Actions - AcadeMind](The_Complete_Guide.md)
 	* Kubernetes
-		* [[Kubernetes & Helm]]
+		* [Kubernetes & Helm - PrpleSchool](Kubernetes_&_Helm.md)
 * Eng
-	* [[English Grammar in Use]]
+	* [English Grammar in Use - Book](English_Grammar_In_Use.md)
