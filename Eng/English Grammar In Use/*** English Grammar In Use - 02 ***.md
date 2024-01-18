@@ -186,4 +186,39 @@
 ---
 
 ## Unit 17 - **Have** and Have got
+>==[A] **Have** and ** have got** (=for possession, relationships, illnesses etc.)
+>You can use **have** or **have got**. There is no difference in meaning.==
+>	They have a new car. or They've got a new car.
+>	Lisa has two brothers. or Lisa's got two brothers.
+>	I have a headache. or I've got a headache.
+>==With these meanings (possession etc.), you cannot use continuous forms (**am having** etc.)==:
+>	We're enjoying our holiday. We have / We've got a nice room in the hotel. (not We're having a nice room)
+>==For the past we use **had** (without **got**)==:
+>	Lisa had long hair when she was a child. (not Lisa had got)
 
+>==[B] In questions and negative sentences there are three possible forms:==
+>	Do you have any questions? / Have you got any questions? / Have you any questions? 
+>	Does she have a car? Has she got a car? Has she a car?
+>	I don't have any questions. I haven't got any questions. I haven't any questions.
+>	She doesn't have a car. She hasn't got a car. She hasn't a car.
+>==In past questions and negative sentences we use **did/didn't**==:
+>	Did you have a car when you were living in Paris?
+>	I didn't have my phone, so I could't call you.
+>	Lisa had long hair, didn't she?
+
+>==[C] We also use **have** (but not have got) for many actions and experiences. For example==:
+>**breakfast / dinner / a cup of coffee / something to eat** etc. / **a bath / a shower / a swim / a break / a rest / a party / a holiday / an accident / an experience / a dream / a look** (at something) / **a chat / a conversation / a discussion** (with somebody) / **trouble / difficulty / fun / a good time** etc. / **a baby** (= given birth to a baby)
+>==**Have got** is not possible in the previous expressions. Compare==:
+>	Sometimes I have (= eat) a sandwich for my lunch. (not I've got)
+>	but I've got / I have some sandwiches. Would you like one?
+>==You can use continuous forms (**am having** etc) with the expressions==:
+>	We're enjoying our holiday. We're having a great time. (not We have)
+>	Mark is having a shower at the moment. He has a shower every day.
+>==In questions and negative sentences we use **do / does / did**==:
+>	I don't usually have a big breakfast. (not I usually haven't)
+>	What time does Chris have lunch? (not has Chris lunch)
+>	Did you have trouble finding a place to live?
+
+---
+
+## Unit 18 - Used to (do)
