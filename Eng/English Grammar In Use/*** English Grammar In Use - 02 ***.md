@@ -158,3 +158,32 @@
 ---
 
 ## Unit 16 - Past perfect continuous (I had been doing)
+
+>==[A] **Had been -ing** is the past perfect continuous==:
+>	When the boys came into the house, their clothes were dirty, their hair was untidy and one of them had a black eye. They'd been fighting.
+>	I was very tired when I got home. I'd been working hard all day.
+>	When I went to Madrid a few years ago, I stayed with a friend of mine. She hadn't been living there very long, but she knew the city very well.
+
+>==[B] You can say that something **had been happening** for a period of time before something else happened==:
+>	We'd been playing tennis for about half an hour when it started to rain heavily.
+>	Paul went to the doctor last Friday. He hadn't been feeling well for some time.
+
+>==[C] Compare **have been -ing** (present perfect continuous) and **had been -ing** (past perfect continuous)==:
+>Present perfect continuous:
+>	I hope the bus comes soon. I've been waiting for 20 minutes. (before now)
+>	James is out of breath. He has been running.
+>Past perfect continuous:
+>	At last the bus came. I'd been waiting for 20 minutes. (before the bus came)
+>	James was out of breath. He had been running.
+
+>==[D] Compare **was -ing** (past continuous) and **had been -ing**==:
+>	It wasn't raining when we went out. The sun was shining. But it had been raining, so the ground was wet.
+>	Katherine was sitting in an armchair resting. She was tired because she'd been working very hard.
+
+>==[E] Some verbs (for example, **know** and **like**) are not normally used in the continuous==:
+>	We were good friends. We had known each other for years. (not had been knowing)
+
+---
+
+## Unit 17 - **Have** and Have got
+
