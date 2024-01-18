@@ -1,4 +1,5 @@
-#git [course](https://pro.academind.com/p/github-actions-the-complete-guide)
+#git
+link: [course](https://pro.academind.com/p/github-actions-the-complete-guide)
 slides: [[*** m02 - GitHub Actions ***]]
 code : [github](https://github.com/academind/github-actions-course-resources)
 
