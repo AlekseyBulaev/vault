@@ -222,3 +222,34 @@
 ---
 
 ## Unit 18 - Used to (do)
+
+>==[B] Something **used to** happen = it happened often in the past, but no longer happens==:
+>	I used to play tennis a lot, but I don't play very much now.
+>	David used to spend a lot of money on clothes. These days he can't afford it.
+>	'Do you go to the cinema much?' 'Not now, but I used to.' (= I used to go)
+>==We also use **used to ...** with things that were true, but are not true any more==:
+>	This building is now a furniture shop. It used to be a cinema.
+>	I used to think Mark was unfriendly, but now I realize he's a very nice person.
+>	I've started drinking tea recently. I never used to like it before.
+>	Lisa used to have very long hair when she was a child.
+
+>==[C] 'I **used to** do something' is past. There is no present. You cannot say 'I use to do'. To talk about the present, use the present simple (I **do**)==
+>	We used to live in a small village, but now we live in London.
+>	There used to be four cinemas in the town. Now there is only one.
+
+>==[D] The normal question form is **did** (you) **use to** ... ?==
+>	Did you use to eat a lot of sweets when you were a child?
+>==The negative form is **didn't use to** .. (**used not to** .. is also possible)==:
+>	I didn't use to like him. (or I used not to like him.)
+
+>==[E] Compare **I used to do** and **I was doing**==:
+>	I used to watch TV a lot. (= I watched TV often in the past, but I no longer do this)
+>	I was  watching TV when Rob called. (= I was in the middle of watching TV)
+
+>==[F] Do not confuse **I used to do** and **I am used to doing**. The structures and meanings are different==:
+>	I used to live alone. (= I lived alone in the past, but I no longer live alone)
+>	I am used to living alone. (= I live alone, and I don't find it strange or difficult because I've been living alone for some time)
+
+---
+
+## Unit 19 - Present tenses (I am doing / I do) for the future
