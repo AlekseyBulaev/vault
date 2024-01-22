@@ -253,3 +253,38 @@
 ---
 
 ## Unit 19 - Present tenses (I am doing / I do) for the future
+
+>==[A] I'**m doing** something (tomorrow) = I have already decided and arranged to do it==:
+>	A: What are you doing on Saturday evening? (not What do you do)
+>	B: I'm going to the theatre. (no I go)
+>	I'm not working tomorrow, so we can go out somewhere.
+>==I'm **going to** (do) is also possible with these sentences==:
+>	What are you going to do on Saturday evening?
+>==But the present continuous is more natural when we talk about arrangements. Do not use **will** to talk about what you have arranged to do==:
+>	What are you doing this evening? (not What will you do)
+>	Alex is getting married next month. (not will get)
+>==You can also use the present continuous for an action *just before you begin to do it*. This happens especially with verbs of movement (**go / come / leave** etc.)==:
+>	I'm tired. I'm going to bed now. (not I go to bed now)
+
+>==[B] Present simple (**I do**) with the future meaning==
+>==We use the present simple when we talk about timetables, programmes etc. (for public transport, cinemas etc.)==:
+>	My train leaves at 11:30, so I need to be at the station by 11.15.
+>	What time does the film start this evening?
+>	It's Wednesday tomorrow.
+>==You can use present simple to talk about people if their plans are fixed like a timetable==:
+>	I start my new job on Monday.
+>	What time do you finish work tomorrow?
+>==But the continuous is more usual for personal arrangements==:
+>	What time are you meeting Ann tomorrow? (not do you meet)
+>==Compare==:
+>Present continuous:
+>	What time are you arriving?
+>	I'm going to the cinema this evening.
+>Present simple:
+>	What time does the train arrive?
+>	The film starts at 8.15 (this evening).
+
+---
+
+## Unit 20 - (I'm) going to (do)
+
